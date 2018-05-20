@@ -19,11 +19,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* add in the background pattern */
 
-body{
-    margin: 0;
-    padding: 0;
-    background-image: url("assets/images/what-the-hex/what-the-hex.png");
-    background-repeat: repeat-x;
+body {
+    background-image: url("../images/what-the-hex/what-the-hex.png");
 }
 
 /* style the header bar */

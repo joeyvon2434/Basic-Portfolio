@@ -1,0 +1,17 @@
+/*Main style sheet for portfolio */
+
+
+
+/* set all fonts to those listed below */
+
+* {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+/* Set headings to the fonts listed below */
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}

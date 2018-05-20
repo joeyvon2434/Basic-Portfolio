@@ -26,7 +26,28 @@ body {
 /* style the header bar */
 
 .header-bar {
+    width: 100%;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
 
+.center-header {
+    width: 960px;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 0;
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-name {
+    background-color: #4aaaa5;
+    margin: 0;
+    width: 25%;
+    padding: 15px;
+    font-size: 20px;
 }
 
 /*style the content sections*/
@@ -42,3 +63,4 @@ section{
     width: 200px;
     height: auto;
 }
+

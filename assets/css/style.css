@@ -54,6 +54,7 @@ body {
 
 #nav-links{
     float: right;
+    list-style-type: none;
 }
 
 /*style the content sections*/

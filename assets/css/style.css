@@ -31,10 +31,14 @@ body {
     left: 0;
     width: 100%;
     background-color: #ffffff;
+    height: 96px;
+    padding: 0;
+    margin: 0;
 }
 
 #center-header {
     width: 960px;
+    height: auto;
     text-align: center;
     background-color: #ffffff;
     padding: 0;
@@ -46,16 +50,35 @@ body {
 #header-name {
     background-color: #4aaaa5;
     margin: 0;
-    width: 25%;
-    padding: 15px;
-    font-size: 20px;
+    width: 30%;
+    height: 36px;
+    padding: 30px 0;
+    font-size: 23px;
     float: left;
+    color: #ffffff;
 }
 
 #nav-links{
     float: right;
     list-style-type: none;
+    height: 96px;
+    padding: 30px 0;
 }
+
+.link-items {
+    display: inline;
+    color: #777777;
+    padding: 0 5px;
+    cursor: pointer;
+
+}
+
+.link-border{
+    border-width: 0 1px 0 0;
+    border-color: #777777;
+    border-style: solid;
+}
+
 
 /*style the content sections*/
 

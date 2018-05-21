@@ -94,3 +94,32 @@ section{
     height: auto;
 }
 
+
+
+
+
+
+
+
+/* Styling Footer */
+
+footer {
+    position: fixed;
+    width: 100%;
+    height: 48px;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    background-color: #666666;
+    color: #ffffff;
+    border-width: 5px 0 0 0 ;
+    border-color: #4aaaa5;
+    border-style: solid;
+    font-size: 12px;
+}
+
+.footdiv {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+}

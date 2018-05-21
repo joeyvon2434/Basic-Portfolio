@@ -122,18 +122,19 @@ section{
     margin: 10px 20px 20px 20px;
     color: #777777;
     padding: 0;
+    list-style-position: inside;
 }
 
 #ski-image{
     float: right;
-    width: 400px;
+    width: 450px;
     height: auto;
 
 }
 
 #travel-image{
     float: left;
-    width: 400px;
+    width: 300px;
     height: auto;
 
 }

@@ -94,9 +94,26 @@ section{
     height: auto;
 }
 
+#about-me {
+    color: #4aaaa5;
+    margin: 15px;
+    border-width: 0 0 1px 0;
+    border-color: #777777;
+    border-style: solid;
+}
 
+/* styling the content section */
 
+section{
+    position: relative;
+    top: 96px;
+    margin: 23px auto;
+    background-color: #ffffff;
+}
 
+.content{
+    margin: 5px 15px;
+}
 
 
 

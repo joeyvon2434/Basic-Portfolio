@@ -83,38 +83,57 @@ body {
 /*style the content sections*/
 
 section{
+    position: relative;
+    top: 96px;
     width: 960px;
     padding:0;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 23px auto;
+    background-color: #ffffff;
 }
 
-.profile-image{
-    width: 200px;
-    height: auto;
-}
 
-#about-me {
+.content-header {
     color: #4aaaa5;
-    margin: 15px;
+    margin: 20px 20px 10px 20px;
+    padding: 20px 0;
     border-width: 0 0 1px 0;
     border-color: #777777;
     border-style: solid;
 }
 
-/* styling the content section */
+#profile-image {
+    float: left;
+    width: 250px;
+    height: auto;
+}
 
-section{
-    position: relative;
-    top: 96px;
-    margin: 23px auto;
-    background-color: #ffffff;
+#slogan {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 20px;
 }
 
 .content{
-    margin: 5px 15px;
+    line-height: 2.0;
+    margin: 10px 20px 20px 20px;
+    color: #777777;
+    padding: 0;
 }
 
+#ski-image{
+    float: right;
+    width: 400px;
+    height: auto;
+
+}
+
+#travel-image{
+    float: left;
+    width: 400px;
+    height: auto;
+
+}
 
 
 

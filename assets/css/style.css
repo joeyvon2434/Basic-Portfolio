@@ -166,6 +166,32 @@ section{
     z-index: 0;
 }
 
+form {
+    color: #777777;
+    padding: 20px;
+}
+
+input{
+    width: 920px;
+    height: 30px;
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+textarea {
+    width: 920px;
+    height: 180px;
+}
+
+button{
+    background-color: #4aaaa5;
+    font-size: 18px;
+    width: 150px;
+    height: 40px;
+    margin: 0 20px 20px 20px;
+    color: #ffffff;
+
+}
 
 
 /* Styling Footer */

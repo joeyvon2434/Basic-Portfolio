@@ -141,25 +141,28 @@ section{
 }
 
 .clickable-project {
+    position: relative;
     display: inline-block;
-    width: 300px;
-    height: 200px;
-    padding: 15px 0 15px 0;
-    margin: 0;
+    width: 270px;
+    height: 180px;
+    padding: 0;
+    margin: 20px;
 }
 
 .project-banners{
     z-index: 1;
     position: absolute;
+    bottom: 20px;
     text-align: center;
     margin: 0;
-    width: 300px;
-    height: 50px;
+    width: 270px;
+    height: 40px;
     background-color: #4aaaa5;
     color: #ffffff;
 }
 
 .project-image{
+    position: absolute;
     z-index: 0;
 }
 
